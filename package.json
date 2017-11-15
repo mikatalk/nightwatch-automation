@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "node index.js"
+  },
+  "port": 9494,
+  "dependencies": {
+    "chromedriver": "^2.33.2",
+    "cross-spawn": "^5.1.0",
+    "nightwatch": "^0.9.16",
+    "selenium-server": "^3.7.1"
+  }
+}
